@@ -1,0 +1,179 @@
+
+
+nav {
+    background-color: #C12127;
+    color: rgba(255,255,255,0.8);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: auto; 
+    
+  }
+  
+  nav a {
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+    display: inline-block;
+    vertical-align: middle;
+
+
+  }
+  .top-links {
+    display: inline-block;
+    float: right;
+    padding: 0;
+    margin: 0 20px 0 0;
+    vertical-align: top;
+  }
+  
+  .top-links li {
+    display: inline-block;
+    margin: 0 10px;
+    vertical-align: top;
+  }
+.top-left {
+    display: inline-block;
+}
+
+header{
+    background-color: rgb(32, 101, 136);
+    color: white;
+    padding-bottom: 30px;
+}
+
+.search-bar{
+    padding: 5px;
+}
+
+.search-bar .logo {
+    width: 100px;
+}
+
+.search-bar input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+    border: 1px solid #ccc;
+}
+
+.search-bar .search-container button {
+    float: right;
+    padding: 6px 10px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+  }
+
+.build{
+    width: 600px;
+    margin: 0 auto 
+}
+
+.image-billboard{
+    float: right;
+    width: 300px;
+}
+
+.link-btn{
+    background: rgb(240, 146, 51);
+    color: white;
+    font-family: Roboto Condensed;
+    font-size: 1em;
+    letter-spacing: 0.5px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    Width: 120px;
+    Margin: 0 auto 0;
+    Padding: 14px 20px 14px;
+    Border-style: none;
+    border-radius: 12px;
+    display: inline-block;
+  }
+
+  .collaboration{
+    width:800px;  
+    margin: 0 auto;
+    color: white;   
+    background-color: rgb(39, 53, 71);
+    }
+
+  .collaboration .image{
+    width: 300px;
+    float: left;
+  }
+
+
+#what-is-npm .image{
+background-size: cover;}
+
+#what-is-npm{
+  position: relative;
+}
+
+#what-is-npm .text{
+  position: absolute;
+  color: white;
+}
+
+#what-is-npm .link-btn{
+  background: rgb(49, 68, 88);
+  color: white;
+  font-family: Roboto Condensed;
+  font-size: 1em;
+  letter-spacing: 0.5px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  Width: 120px;
+  Margin: 0 auto 0;
+  Padding: 14px 20px 14px;
+  Border-style: none;
+  border-radius: 12px;
+  display: inline-block;
+}
+
+.col {float: left; }
+
+.col-3 {width: 30%;}
+
+.col-middle {margin-left: 5%;
+  margin-right: 5%}
+
+
+.container {
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    padding: 75px 0;
+  }
+
+#what-can-you{
+  background-color: white;
+}
+
+
+#what-can-you .text-heading{
+  color: rgb(83, 88, 98);  
+}
+
+#what-can-you .text{
+ color: rgb(135, 145, 156);
+}
+
+.align-center {
+  margin: 0 auto;}
+  
+#what-can-you .links{
+  color: rgb(208, 74, 73);
+}
+
+.container .align-center{
+  
+}
+
